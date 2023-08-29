@@ -55,16 +55,18 @@
 
 <h1 align="center">Final Round</h1>
 
-<h1 align="center">
     
 |   Rand   | Defender | Game Result | Challenger |
 |   :---:  |   :---:  |    :---:    |    :---:   |
 |    2nd   |          |             |            |
 |   Final  |          |             |            |
 
-</h1>
+<br>
 
-
+|     1     |          |
+|   :---:   |   :---:  |
+|     2     |          |
+|     3     |          |
 
 
 
