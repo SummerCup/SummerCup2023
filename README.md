@@ -1,4 +1,4 @@
-# SummerCup2023
+# $${\color{yellow}Champion}$$
 
 ## Participating Teams
 <ul>
@@ -39,9 +39,9 @@
 
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
-|      FALCON vs TNT       |         9:00       |
-|     FALCON vs EMPEROR       |        9:12        |
-|     TNT vs EMPEROR    |        9:24        |
+|      FALCON vs TNT       |         9:30       |
+|     FALCON vs EMPEROR    |        9:42        |
+|     TNT vs EMPEROR       |        9:54        |
 
 <br>
 
@@ -53,7 +53,6 @@
 
 <br>
 <hr>
-<br>
 
 <h1 align="center">Accumulated points</h1>
 
