@@ -18,6 +18,13 @@
 ---------------------
 
 
+|         Games            |Estimated Start Time|
+|         :---:            |    :---:           |                 
+|      TNT vs FALCON       |         9:00       |
+|     TNT vs EMPEROR       |        9:12        |
+|     FALCON vs EMPEROR    |        9:24        |
+
+
 
 |  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
 |   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
