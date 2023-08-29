@@ -17,7 +17,7 @@
 
 ---------------------
 
-<h3 style:"text-align:center;"></h3>
+<h1 style="text-align: center;">Home</h1>
 
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
