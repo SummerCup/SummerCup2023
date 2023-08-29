@@ -63,9 +63,9 @@
 
 <br>
 
-|$${\color{yellow}Champion}$$|          |
-|   :---:   |   :---:  |
-|     2     |          |
-|     3     |          |
+|  $${\color{yellow}Champion}$$  |          |
+|              :---:             |   :---:  |
+|                2               |          |
+|                3               |          |
 
 
