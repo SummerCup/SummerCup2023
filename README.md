@@ -18,7 +18,6 @@
 ---------------------
 
 <h1 align="center">Home</h1>
-
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
 |      TNT vs FALCON       |         9:00       |
