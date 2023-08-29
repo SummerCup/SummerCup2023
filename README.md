@@ -1,4 +1,4 @@
-# $${\color{yellow}Champion}$$
+# $${\color{lightgreen}SummerCup2023}$$
 
 ## Participating Teams
 <ul>
