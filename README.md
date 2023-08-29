@@ -51,6 +51,18 @@
 |  FALCON   |        |   :x:  |         |        |     |      |
 |  EMPEROR  |        |        |    :x:  |        |     |      |
 
+<br>
+<hr>
+<br>
+
+<h1 align="center">Accumulated points</h1>
+
+| Rank | Team Name | Home | Away | Total |
+|:---: |   :---:   | :---:|:---: | :---: |
+|   1  |           |      |      |       |
+|   2  |           |      |      |       |
+|   3  |           |      |      |       |
+
 ---------------------
 
 <h1 align="center">Final Round</h1>
