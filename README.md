@@ -14,3 +14,13 @@
 |    TNT      | Daniel Salami | Farzin Hasanzade, Mohammadsaleh Hamrahi and Mohammadsadra Hamrahi |
 |    FALCON   | Mohammad Zarei|                           Amir Ali Farahani                       |
 |  EMPEROR    |Soroush Mazloum|                              Erfan Fathi                          |
+
+---------------------
+
+
+
+|  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
+|   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
+|    TNT    |   :x:  |        |         |        |     |      |
+|  FALCON   |        |   :x:  |         |        |     |      |
+|  EMPEROR  |        |        |    :x:  |        |     |      |
