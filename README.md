@@ -63,7 +63,7 @@
 
 <br>
 
-| Champion  (&#x1F49B;): |          |
+| Champion  <code style=" color : gold"> Champion </code> |          |
 |   :---:   |   :---:  |
 |     2     |          |
 |     3     |          |
