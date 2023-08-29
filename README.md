@@ -25,8 +25,6 @@
 |     FALCON vs EMPEROR    |        9:24        |
 
 <br>
-<br>
-<br>
 
 |  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
 |   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
