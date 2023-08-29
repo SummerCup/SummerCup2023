@@ -63,7 +63,7 @@
 
 <br>
 
-| Champion  <code style=" color : gold"> Champion </code> |          |
+| Champion  <code style=" color : green"> Champion </code> |          |
 |   :---:   |   :---:  |
 |     2     |          |
 |     3     |          |
