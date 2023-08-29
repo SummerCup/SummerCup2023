@@ -18,6 +18,7 @@
 ---------------------
 
 <h1 align="center">Home</h1>
+
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
 |      TNT vs FALCON       |         9:00       |
@@ -31,3 +32,29 @@
 |    TNT    |   :x:  |        |         |        |     |      |
 |  FALCON   |        |   :x:  |         |        |     |      |
 |  EMPEROR  |        |        |    :x:  |        |     |      |
+
+---------------------
+
+<h1 align="center">Away</h1>
+
+|         Games            |Estimated Start Time|
+|         :---:            |    :---:           |                 
+|      FALCON vs TNT       |         9:00       |
+|     FALCON vs EMPEROR       |        9:12        |
+|     TNT vs EMPEROR    |        9:24        |
+
+<br>
+
+|  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
+|   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
+|    TNT    |   :x:  |        |         |        |     |      |
+|  FALCON   |        |   :x:  |         |        |     |      |
+|  EMPEROR  |        |        |    :x:  |        |     |      |
+
+
+
+
+
+
+
+
