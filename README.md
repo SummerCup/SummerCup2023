@@ -63,7 +63,7 @@
 
 <br>
 
-|$${\color{Champion}Red}$$|          |
+|$${\color{yellow}Champion}$$|          |
 |   :---:   |   :---:  |
 |     2     |          |
 |     3     |          |
