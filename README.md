@@ -63,7 +63,7 @@
 
 <br>
 
-| Champion YELLOW HEART (&#x1F49B;): |          |
+| Champion  (&#x1F49B;): |          |
 |   :---:   |   :---:  |
 |     2     |          |
 |     3     |          |
