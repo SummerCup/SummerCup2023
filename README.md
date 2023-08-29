@@ -63,11 +63,9 @@
 
 <br>
 
-| Champion  <code style=" color : green"> Champion </code> |          |
+|$${\color{Champion}Red}$$|          |
 |   :---:   |   :---:  |
 |     2     |          |
 |     3     |          |
 
-
-$${\color{red}Red}$$
 
