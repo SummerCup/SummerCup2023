@@ -51,7 +51,14 @@
 |  FALCON   |        |   :x:  |         |        |     |      |
 |  EMPEROR  |        |        |    :x:  |        |     |      |
 
+---------------------
 
+<h1 align="center">Final Round</h1>
+
+|   Rand   | Defender | Game Result | Challenger |
+|   :---:  |   :---:  |    :---:    |    :---:   |
+|    2nd   |          |             |            |
+|   Final  |          |             |            |
 
 
 
