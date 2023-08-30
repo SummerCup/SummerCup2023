@@ -1,4 +1,4 @@
-# $${\color{lightgreen}SummerCup2023}$$
+# \textbf$${\color{lightgreen}SummerCup2023}$$
 
 ## Participating Teams
 <ul>
