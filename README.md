@@ -71,6 +71,7 @@
 |       vs        |         20:00       |
 |      vs     |        20:12        |
 
+<br>
     
 |   Rand   | Defender | Game Result | Challenger |
 |   :---:  |   :---:  |    :---:    |    :---:   |
