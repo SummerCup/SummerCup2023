@@ -21,6 +21,10 @@
 
 <br>
 
+### Binary upload deadline: 7 am (IR)
+
+<br>
+
 <h1 align="center">Home</h1>
 
 |         Games            |Estimated Start Time|
