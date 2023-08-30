@@ -20,8 +20,9 @@
 # 31, August, 2023
 
 <br>
-
-### Binary upload deadline: 7 am (IR)
+<ul>
+    ### Binary upload deadline: 7 am (IR)
+</ul>
 
 <br>
 
