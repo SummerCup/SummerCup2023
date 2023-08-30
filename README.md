@@ -7,6 +7,8 @@
     <li>EMPEROR</li>
 </ul>
 
+<br>
+
 ---------------------
 
 |  Team Name  |  Team Leader  |                        Team Members                               |
@@ -20,8 +22,11 @@
 # 31, August, 2023
 
 <br>
+
 <ul>
-    ### Binary upload deadline: 7 am (IR)
+    <li>
+        ### Binary upload deadline: 7 am (IR)
+    </li>
 </ul>
 
 
@@ -82,6 +87,8 @@
          ### Binary upload deadline: 7 pm (IR)   
     </li>
 </ul>
+
+<br>
 
 
 |         Games            |Estimated Start Time|
