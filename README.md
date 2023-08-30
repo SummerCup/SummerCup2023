@@ -74,6 +74,12 @@
 
 <h1 align="center">Final Round</h1>
 
+<br>
+
+### Binary upload deadline: 7 pm (IR)
+
+<br>
+
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
 |       vs        |         20:00       |
