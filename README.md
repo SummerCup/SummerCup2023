@@ -25,7 +25,7 @@
 
 <ul>
     <li>
-        ### Binary upload deadline: 7 am (IR)
+         Binary upload deadline: 7 am (IR)
     </li>
 </ul>
 
@@ -84,7 +84,7 @@
 
 <ul>
     <li>
-         ### Binary upload deadline: 7 pm (IR)   
+         Binary upload deadline: 7 pm (IR)   
     </li>
 </ul>
 
