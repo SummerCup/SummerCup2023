@@ -84,7 +84,7 @@
 
 <br>
 
-|  $${\color{yellow}{\testbfChampion}}$$  |          |
+|  $${\color{yellow}{\testbf{Champion}}}$$  |          |
 |              :---:             |   :---:  |
 |                2               |          |
 |                3               |          |
