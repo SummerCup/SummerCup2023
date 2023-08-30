@@ -38,7 +38,7 @@
 <h1 align="center">Away</h1>
 
 |         Games            |Estimated Start Time|
-|         :---:            |    :---:           |                 
+|         :---:            |    :---:           | 
 |      FALCON vs TNT       |         9:30       |
 |     FALCON vs EMPEROR    |        9:42        |
 |     TNT vs EMPEROR       |        9:54        |
@@ -65,6 +65,11 @@
 ---------------------
 
 <h1 align="center">Final Round</h1>
+
+|         Games            |Estimated Start Time|
+|         :---:            |    :---:           |                 
+|       vs        |         20:00       |
+|      vs     |        20:12        |
 
     
 |   Rand   | Defender | Game Result | Challenger |
