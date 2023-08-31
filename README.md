@@ -67,7 +67,7 @@
 <br>
 <hr>
 
-<h1 align="center">Accumulated points</h1>
+<h1 align="center">Accumulated Points</h1>
 
 | Rank | Team Name | Home | Away | Total |
 |:---: |   :---:   | :---:|:---: | :---: |
