@@ -95,15 +95,15 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
-|       vs                 |         20:00      |
+|      TNT vs  FALCON      |         20:00      |
 |      vs                  |        20:12       |
 
 <br>
     
 |   Rand   | Defender | Game Result | Challenger |
 |   :---:  |   :---:  |    :---:    |    :---:   |
-|    2nd   |          |             |            |
-|   Final  |          |             |            |
+|    2nd   |    TNT   |             |   FALCON   |
+|   Final  |  EMPEROR |             |            |
 
 <br>
 
