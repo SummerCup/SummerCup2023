@@ -130,9 +130,9 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
 <br>
 <br>
 
-|  $${\textcolor {yellow} {\textbf {Champion}}}$$  |          |
+|  $${\textcolor {yellow} {\textbf {Champion}}}$$  |   EMPEROR  |
 |              :---:             |   :---:  |
-|                2               |          |
-|                3               |          |
+|                2               |   TNT    |
+|                3               |  FALCON  |
 
 
