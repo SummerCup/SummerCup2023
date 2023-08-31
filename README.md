@@ -62,9 +62,9 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 
 |  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
 |   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
-|    TNT    |   :x:  | 0 - 0  | 0 - 8   |        |     |      |
-|  FALCON   |  0 - 0 |   :x:  | 0 - 11  |        |     |      |
-|  EMPEROR  | 8 - 0  | 11 - 0 |    :x:  |        |     |      |
+|    TNT    |   :x:  | 0 - 0  | 0 - 8   |   1    |  -8 |  2   |
+|  FALCON   |  0 - 0 |   :x:  | 0 - 11  |    1   | -11 |   3  |
+|  EMPEROR  | 8 - 0  | 11 - 0 |    :x:  |    6   |  19 |  1   |
 
 <br>
 <hr>
@@ -73,9 +73,9 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 
 | Rank | Team Name | Home | Away | Total |
 |:---: |   :---:   | :---:|:---: | :---: |
-|   1  |           |      |      |       |
-|   2  |           |      |      |       |
-|   3  |           |      |      |       |
+|   1  |  EMPEROR  |   6  |  6   |  12   |
+|   2  |    TNT    |   3  |  1   |   4   |
+|   3  |   FALCON  |   0  |  1   |    1  |
 
 ---------------------
 
@@ -95,8 +95,8 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
-|       vs        |         20:00       |
-|      vs     |        20:12        |
+|       vs                 |         20:00      |
+|      vs                  |        20:12       |
 
 <br>
     
