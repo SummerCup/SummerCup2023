@@ -97,7 +97,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
 |         :---:            |    :---:           |                 
 |      TNT vs  FALCON      |         20:00      |
 |      FALCON vs  TNT      |         20:13      |
-|  EMPEROR  vs             |        20:30       |
+|  EMPEROR  vs    TNT      |        20:30       |
 
 <br>
     
