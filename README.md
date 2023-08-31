@@ -126,7 +126,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
         <th>Final</th>
     </tr>
 </table>
-* Third game will be started. Winner will go to Finall.
+* Third game will be started. Winner will go to Finall. Game end (TNT 2 - 1 FALCON)
 <br>
 <br>
 
