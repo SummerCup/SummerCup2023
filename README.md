@@ -52,9 +52,9 @@
 
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           | 
-|      FALCON vs TNT       |         9:40       |
-|     FALCON vs EMPEROR    |        9:52        |
-|     TNT vs EMPEROR       |        10:04        |
+|      FALCON vs TNT       |         10:30       |
+|     FALCON vs EMPEROR    |        10:42        |
+|     TNT vs EMPEROR       |        10:54        |
 
 <br>
 
