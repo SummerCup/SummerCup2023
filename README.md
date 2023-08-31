@@ -42,9 +42,9 @@
 
 |  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
 |   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
-|    TNT    |   :x:  |        |         |        |     |      |
-|  FALCON   |        |   :x:  |         |        |     |      |
-|  EMPEROR  |        |        |    :x:  |        |     |      |
+|    TNT    |   :x:  | 3 - 1  | 0 - 4   |        |     |      |
+|  FALCON   | 1 - 3  |   :x:  |         |        |     |      |
+|  EMPEROR  | 4 - 0  |        |    :x:  |        |     |      |
 
 ---------------------
 
