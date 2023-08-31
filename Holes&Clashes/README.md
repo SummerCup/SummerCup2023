@@ -6,3 +6,7 @@
 
 ![Away](https://github.com/SummerCup/SummerCup2023/assets/120305068/9dccf5c4-fa38-499f-8aff-cebec5551752)
 
+# Final
+
+![Final](https://github.com/SummerCup/SummerCup2023/assets/120305068/42435eb4-9047-41c0-b713-6dd826eda16e)
+
