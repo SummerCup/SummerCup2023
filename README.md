@@ -114,7 +114,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
     <tr>
         <th>2nd</th>
         <th>TNT</th>
-        <th></th>
+        <th>0 - 1</th>
         <th></th>
         <th></th>
         <th>FALCON</th>
