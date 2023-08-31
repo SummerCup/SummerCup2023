@@ -106,6 +106,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
         <th>Rank</th>
         <th>Defender</th>
         <th>Home</th>
+        <th>Total</th>
         <th>Away</th>
         <th>Challenger</th>
     </tr>
@@ -114,12 +115,13 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
         <th>TNT</th>
         <th></th>
         <th></th>
+        <th></th>
         <th>FALCON</th>
     </tr>
     <tr>
         <th>Final</th>
         <th>EMPEROR</th>
-        <th colspan="2"></th>
+        <th colspan="3"></th>
         <th>Final</th>
     </tr>
 </table>
