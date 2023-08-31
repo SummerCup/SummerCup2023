@@ -66,7 +66,7 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 |  FALCON   |  0 - 0 |   :x:  | 0 - 11  |    1   | -11 |   3  |
 |  EMPEROR  | 8 - 0  | 11 - 0 |    :x:  |    6   |  19 |  1   |
 
-Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLogs)
+Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLogs)
 <hr>
 
 <h1 align="center">Accumulated Points</h1>
