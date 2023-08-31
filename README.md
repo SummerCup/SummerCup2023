@@ -122,7 +122,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
     <tr>
         <th>Final</th>
         <th>EMPEROR</th>
-        <th colspan="3"></th>
+        <th colspan="3">6 - 0</th>
         <th>TNT</th>
     </tr>
 </table>
