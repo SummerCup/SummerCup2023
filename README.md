@@ -46,6 +46,8 @@
 |  FALCON   | 1 - 3  |   :x:  | 0 - 8   |   0    | -10 |  3   |
 |  EMPEROR  | 4 - 0  | 8 - 0  |    :x:  |   6    |  12 |  1   |
 
+Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLogs)
+
 ---------------------
 
 <h1 align="center">Away</h1>
