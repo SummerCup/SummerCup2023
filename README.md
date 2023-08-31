@@ -100,10 +100,10 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
 
 <br>
     
-|   Rand   | Defender | Game Result | Challenger |
-|   :---:  |   :---:  |    :---:    |    :---:   |
-|    2nd   |    TNT   |             |   FALCON   |
-|   Final  |  EMPEROR |             |            |
+|   Rand   | Defender |  Home  |  Away  | Challenger |
+|   :---:  |   :---:  |  :---: |  :---: |    :---:   |
+|    2nd   |    TNT   |        |        |   FALCON   |
+|   Final  |  EMPEROR |                 |            |
 
 <br>
 
