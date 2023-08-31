@@ -100,10 +100,34 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
 
 <br>
     
-|   Rand   | Defender |  Home  |  Away  | Challenger |
+|   Rank   | Defender |  Home  |  Away  | Challenger |
 |   :---:  |   :---:  |  :---: |  :---: |    :---:   |
 |    2nd   |    TNT   |        |        |   FALCON   |
-|   Final  |  EMPEROR |            |            |
+|   Final  |  EMPEROR |                 |            |
+
+
+<table>
+    <tr>
+        <th>Rank</th>
+        <th>Defender</th>
+        <th>Home</th>
+        <th>Away</th>
+        <th>Challenger</th>
+    </tr>
+    <tr>
+        <th>2nd</th>
+        <th>TNT</th>
+        <th></th>
+        <th></th>
+        <th>FALCON</th>
+    </tr>
+    <tr>
+        <th>Final</th>
+        <th>EMPEROR</th>
+        <th colspan="2">Merged Cell</th>
+        <th>Final</th>
+    </tr>
+</table>
 
 <br>
 
