@@ -103,7 +103,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
 |   Rand   | Defender |  Home  |  Away  | Challenger |
 |   :---:  |   :---:  |  :---: |  :---: |    :---:   |
 |    2nd   |    TNT   |        |        |   FALCON   |
-|   Final  |  EMPEROR |                ||            |
+|   Final  |  EMPEROR |     hello       ||            |
 
 <br>
 
