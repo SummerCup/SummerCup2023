@@ -63,8 +63,8 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 |  Group A  |   TNT  | FALCON | EMPEROR | Points | TGD | Rank |
 |   :---:   |  :---: | :---:  |   :---: |  :---: |:---:| :---:|
 |    TNT    |   :x:  | 0 - 0  |         |        |     |      |
-|  FALCON   |  0 - 0 |   :x:  |         |        |     |      |
-|  EMPEROR  |        |        |    :x:  |        |     |      |
+|  FALCON   |  0 - 0 |   :x:  | 0 - 11  |        |     |      |
+|  EMPEROR  |        | 11 - 0 |    :x:  |        |     |      |
 
 <br>
 <hr>
