@@ -127,6 +127,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
     </tr>
 </table>
 * Third game will be started. Winner will go to Finall.
+
 *Third game result: TNT 2 - 1 FALCON. Finall is between EMPEROR and TNT
 <br>
 <br>
