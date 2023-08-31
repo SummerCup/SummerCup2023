@@ -96,7 +96,7 @@ Home Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/HomeLo
 |         Games            |Estimated Start Time|
 |         :---:            |    :---:           |                 
 |      TNT vs  FALCON      |         20:00      |
-|      vs                  |        20:12       |
+|  EMPEROR  vs             |        20:12       |
 
 <br>
     
