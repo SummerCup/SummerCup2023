@@ -127,7 +127,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
     </tr>
 </table>
 * Third game will be started. Winner will go to Finall.
-
+<br>
 <br>
 
 |  $${\textcolor {yellow} {\textbf {Champion}}}$$  |          |
