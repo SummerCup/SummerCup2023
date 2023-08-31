@@ -115,7 +115,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
         <th>2nd</th>
         <th>TNT</th>
         <th>0 - 1</th>
-        <th>1 - 1</th>
+        <th>1 - 1*</th>
         <th>1 - 0</th>
         <th>FALCON</th>
     </tr>
@@ -126,6 +126,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
         <th>Final</th>
     </tr>
 </table>
+* Third game will be started. Winner will go to Finall.
 
 <br>
 
