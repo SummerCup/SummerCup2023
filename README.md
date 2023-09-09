@@ -141,8 +141,6 @@ Final Round Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main
 
 <br>
 <br>
-<br>
-<br>
 <h6>
             Competition was held by <a href="https://github.com/soroushgit" target="_blank">Soroush Mazloum</a>
             <br>
