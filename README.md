@@ -140,3 +140,8 @@ Final Round Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main
 |                3               |  FALCON  |
 
 
+<h6>
+    Competition was held by [Soroush Mazloum] (https://github.com/soroushgit)
+    Ran by [Tournament Runner] (https://github.com/soroushgit/summercup2023-tournament-runner)
+</h6>
+
