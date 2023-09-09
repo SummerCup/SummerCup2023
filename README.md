@@ -146,6 +146,6 @@ Final Round Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main
             <br>
             Ran by <a href="https://github.com/soroushgit/summercup2023-tournament-runner">Tournament Runner</a>
             <br>
-            Analyzed with <a href="https://github.com/rcss-ir/holeanalyzer">Tournament Runner</a>
+            Analyzed with <a href="https://github.com/rcss-ir/holeanalyzer">Hole Analyzer</a>
 </h6>
 
