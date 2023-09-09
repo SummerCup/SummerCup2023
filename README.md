@@ -145,5 +145,7 @@ Final Round Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main
             Competition was held by <a href="https://github.com/soroushgit" target="_blank">Soroush Mazloum</a>
             <br>
             Ran by <a href="https://github.com/soroushgit/summercup2023-tournament-runner">Tournament Runner</a>
+            <br>
+            Analyzed with <a href="https://github.com/rcss-ir/holeanalyzer">Tournament Runner</a>
 </h6>
 
