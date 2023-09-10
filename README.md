@@ -133,6 +133,7 @@ Away Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/AwayLo
 <br>
 Final Round Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main/FinalLogs)
 <br>
+<hr>
 
 |  $${\textcolor {yellow} {\textbf {Champion}}}$$  |   EMPEROR  |
 |              :---:             |   :---:  |
