@@ -152,7 +152,5 @@ Final Round Logs are [here](https://github.com/SummerCup/SummerCup2023/tree/main
 
 <br>
 
-<h6 style="font-size: 1px;">  
-    All games were held in Ubuntu 22.04.3 LTS (Jammy Jellyfish)
-</h6>
+<h6 style="font-size: 1px;">All games were held in Ubuntu 22.04.3 LTS (Jammy Jellyfish)</h6>
 
